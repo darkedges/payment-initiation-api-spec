@@ -6,5 +6,4 @@ This directory contains the Swagger specifications created in line with draft 7 
 Note:
 
 * **The specification is a work in progress and will change in-line with the written standards provided in Confluence**
-* Account Information to be provided
-
+* Account Information to be provided separately
