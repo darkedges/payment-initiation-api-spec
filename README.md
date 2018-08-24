@@ -10,6 +10,9 @@ Change since v1.1.0
 
 
 # Usage
+You need to define a `VERSION` variable, values can be one of `v1.0 | v1.1`
+```export VERSION=v1.1```
+
 ```npm run start```  builds the project and runs a local webserver on http://localhost:8080/ serving the swagger spec using the spectacles-docs format
 
 # Scripts
